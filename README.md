@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @Mocatastic77
-- 👀 I’m interested in weebculture
+- 👀 I’m interested in Pop Culture
 - 🌱 I’m currently learning Java
 - 📫 You can find me on :
       https://www.facebook.com/seto.apriawan
+- My another Github Account (Mainly for Manage and Creating repository) : 
+      https://github.com/SetoAp69
+- This account mainly for side projects and hobbies
       
 
 <!---
